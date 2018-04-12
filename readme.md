@@ -12,6 +12,8 @@ During this course, students will:
 
 [Assignments](https://drive.google.com/open?id=1OUspHz0enLpoVjbyHMHpAQCjSEmkn8rfHbkoSuwjw4M) (in Dutch)
 
+I followed the tutorial on [socket.io](https://socket.io/) and got the chat working.
+
 ## Week 2
 [Slides](https://drive.google.com/open?id=1-tI7rFjHchbph6FEqpNvDi7XCh3Uy-3bohi_jBdZhcQ)
 
